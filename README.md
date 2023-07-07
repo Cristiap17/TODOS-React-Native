@@ -59,7 +59,9 @@ yarn start
 1. Tambien se puede descargar la **APK** en el siguiente enlace: 
 [TODO LIST APK](https://expo.dev/artifacts/eas/uxbkSfAoh9cTRkRVd6WxcA.apk)
 
-**NOTA:** Para que la instalacion de la AKP en **dispositivo android** sea efectiva, se debe **desactivar la seguridad** de la **Play Strore** y asi mismo **activar permisos** en las notificaciones de la AKP una vez instalada.
+**NOTA:** Para que la instalacion de la AKP en **dispositivo android** sea efectiva, se deben **desactivar la seguridad** en los permisos de intalacion de la **Play Strore** y asi mismo **activar permisos** en las notificaciones de la AKP una vez instalada. Una vez instalada la AKP **vuelva a activar** los permisos antes desactivados.
+
+Aqui les dejo un link de una guia para desactivar estos permisos: [Guia para desactivar permisos de instalacion en la Play Store](https://www.youtube.com/watch?v=pnIRwivrmmA&ab_channel=ElandroidHD)
 
 #
 
