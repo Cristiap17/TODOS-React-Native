@@ -75,7 +75,7 @@ yarn start
 
 - Si el campo de texto está vacío, el botón "Add" del modal no funcionará y se mostrará un mensaje debajo del campo de texto que dice "Este campo está vacío".
 
-![Vista principal](./assets/3.PNG)
+![Vista principal](./assets/3.png)
 
 - Al agregar la tarea a la lista de tareas, se mostrará en la lista junto con un temporizador de 5 minutos.
 
